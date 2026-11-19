@@ -72,7 +72,7 @@ The sector is rapidly transitioning from a **fragmented early market** filled wi
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
 - **[BerriAI/litellm](https://github.com/BerriAI/litellm)** [![Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
   ⚡ Open-source (`MIT`) universal AI gateway supporting pre-call and post-call guardrail hooks (`Presidio`, `Lakera`, `Llama Guard`, `Bedrock Guardrails`), unified OpenAI-compatible routing across 100+ LLMs, load balancing, and budget/rate limits.
